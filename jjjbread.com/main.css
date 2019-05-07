@@ -3,9 +3,10 @@
 	display:inline;
 	margin:0.3em;
 	padding:2px 5px;
+	font-color:black;
 }
 #navmenu{
 	text-align:center;
 	background-color:brown;
-	color:black;
+	color:brown;
 }
