@@ -1,0 +1,11 @@
+.navitem{
+	list-style-type:none;
+	display:inline;
+	margin:0.3em;
+	padding:2px 5px;
+}
+#navmenu{
+	text-align:center;
+	background-color:brown;
+	color:black;
+}
