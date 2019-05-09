@@ -1,0 +1,20 @@
+.navitem{
+	list-style-type:none;
+	display:inline;
+	margin:0.3em;
+	padding:2px 5px;
+	font-color:black;
+}
+#navmenu{
+	text-align:center;
+	background-color:orange;
+	font-color:black;
+	padding:10px 5px;
+	bottom:20%;
+}
+#head{
+	background: url(https://thumbs.dreamstime.com/z/loaf-bread-fresh-baked-as-detailed-close-up-shot-50763929.jpg);
+	background-size: cover;
+	height: 55vh;
+	text-align:center;
+}
